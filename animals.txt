@@ -1,0 +1,10 @@
+Dog
+Cat
+Bird
+Rabbit
+Fish
+Duck
+Sheep
+Horse
+Cow
+Lion

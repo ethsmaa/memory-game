@@ -1,0 +1,13 @@
+Ece 90
+Kaan 160
+Sibel 80
+Ali 150
+Nazan 65
+Yeliz 140
+Cem 120
+Pelin 180
+Can 100
+Remzi 70
+Mehmet 110
+Merve 130
+You 20
