@@ -10,4 +10,4 @@ Can 100
 Remzi 70
 Mehmet 110
 Merve 130
-You 20
+You 102
